@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/:path(.*)",
+      "has": [{ "type": "host", "value": "www.legacymarketinggroup.net" }],
+      "destination": "https://legacymarketinggroup.net/:path",
+      "permanent": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.claude
+README.md
+.env*
+.gitignore
+.vercel
+lakeside-diesel
+.impeccable
+demos/main-street-barber
+_concepts
+dev-server.mjs
+package.json

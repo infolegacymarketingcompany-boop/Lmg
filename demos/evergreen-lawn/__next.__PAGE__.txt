@@ -1,0 +1,50 @@
+1:"$Sreact.fragment"
+2:"/demos/evergreen-lawn/_next/static/chunks/42onvq6nokjl2.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+8:"/demos/evergreen-lawn/_next/static/chunks/346pv-v0wd_al.js"
+9:"MenuStateProvider"
+a:I[4409,["$2","$8"],"$9"]
+b:"SelectedServiceProvider"
+c:I[99174,["$2","$8"],"$b"]
+d:I[85878,["$2","$8"],"Nav"]
+e:I[36181,["$2","$8"],"Hero"]
+f:I[98171,["$2","$8"],"RevealText"]
+10:I[47252,["$2","$8"],"ServicesTrack"]
+11:I[89306,["$2","$8"],"StripeWipe"]
+12:I[74206,["$2","$8"],"Seasons"]
+13:I[23116,["$2","$8"],"WhyChoose"]
+14:I[81332,["$2","$8"],"Gallery"]
+15:I[76499,["$2","$8"],"Testimonials"]
+16:I[71753,["$2","$8"],"Reviews"]
+17:I[25494,["$2","$8"],"ServiceAreas"]
+18:I[6512,["$2","$8"],"Estimate"]
+22:"ViewportBoundary"
+23:I[97367,["$2"],"$22"]
+24:"MetadataBoundary"
+25:I[97367,["$2"],"$24"]
+26:"$Sreact.suspense"
+27:I[27201,["$2"],"IconMark"]
+:HL["/demos/evergreen-lawn/_next/static/chunks/3d5s1c7j0pzjl.css","style"]
+6:X
+7:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$La",null,{"children":["$","$Lc",null,{"children":[["$","a",null,{"href":"#services","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[70] focus:rounded-full focus:bg-lime focus:px-5 focus:py-3 focus:font-semibold focus:text-forest","children":"Skip to content"}],["$","$Ld",null,{}],["$","main",null,{"children":[["$","$Le",null,{}],["$","section",null,{"id":"services","className":"scroll-mt-24 py-20 md:py-32","children":[["$","div",null,{"className":"mx-auto max-w-[1400px] px-5 md:px-10","children":["$","div",null,{"className":"max-w-3xl ","children":[["$","$Lf",null,{"text":"Our Services","className":"font-display text-[clamp(2.4rem,5.5vw,4.6rem)] font-bold leading-[0.95] tracking-[-0.025em] text-forest"}],["$","p",null,{"className":"mt-5 max-w-[60ch] text-lg leading-relaxed text-muted ","children":"Six ways we take care of your property, from the weekly cut to a complete landscape redesign."}]]}]}],["$","$L10",null,{}]]}],["$","$L11",null,{}],["$","$L12",null,{}],["$","$L13",null,{}],["$","$L14",null,{}],["$","$L15",null,{}],["$","$L16",null,{}],["$","$L17",null,{}],["$","$L18",null,{}]]}],["$","$L11",null,{"tone":"emerald"}],["$","footer",null,{"className":"on-dark overflow-hidden bg-forest pb-28 pt-20 text-ivory md:pb-10","children":["$","div",null,{"className":"mx-auto max-w-[1400px] px-5 md:px-10","children":[["$","div",null,{"className":"grid gap-12 md:grid-cols-12","children":[["$","div",null,{"className":"md:col-span-5","children":[["$","span",null,{"className":"inline-flex items-center gap-2.5","children":[["$","span",null,{"className":"grid h-9 w-9 place-items-center rounded-full bg-lime text-forest","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"fill":"currentColor","viewBox":"0 0 256 256","aria-hidden":"true","children":[false,"$undefined",["$","path",null,{"d":"M231.19,195.51A8,8,0,0,1,224,200H136v40a8,8,0,0,1-16,0V200H32a8,8,0,0,1-6.31-12.91l46-59.09H48a8,8,0,0,1-6.34-12.88l80-104a8,8,0,0,1,12.68,0l80,104A8,8,0,0,1,208,128H184.36l45.95,59.09A8,8,0,0,1,231.19,195.51Z"}]]}]}],["$","span",null,{"className":"flex flex-col leading-none text-ivory","children":[["$","span",null,{"className":"font-display text-lg font-bold tracking-tight","children":"Evergreen"}]," ",["$","span",null,{"className":"font-mono text-[10px] uppercase tracking-[0.18em] opacity-70","children":"Lawn & Landscape"}]]}]]}],["$","p",null,{"className":"mt-5 max-w-sm font-display text-2xl font-semibold leading-tight","children":"Exceptional Lawns. Unmatched Curb Appeal"}]]}],["$","nav",null,{"aria-label":"Footer","className":"md:col-span-2","children":[["$","h2",null,{"className":"font-mono text-[11px] uppercase tracking-[0.2em] text-lime","children":"Explore"}],"$L19"]}],"$L1a","$L1b"]}],"$L1c","$L1d"]}]}],"$L1e"]}]}],["$L1f"],"$L20"]}],"p":"$@21","v":null,"s":"$6"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/demos/evergreen-lawn/_next/static/chunks/3d5s1c7j0pzjl.css","precedence":"next"}],["$","script","script-0",{"src":"/demos/evergreen-lawn/_next/static/chunks/42onvq6nokjl2.js","async":true}]],["$","html",null,{"lang":"en","className":"Q5vzFa_variable Hp4EYa_variable ZGwrmq_variable","children":["$","body",null,{"className":"bg-ivory font-sans text-charcoal antialiased","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10241A"}]]}],["$","$L25",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$26",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Evergreen Lawn & Landscape | Knoxville Lawn Care (Demo Concept)"}],["$","meta","1",{"name":"description","content":"A fictional Knoxville lawn care company, designed and built as a demo website by Legacy Marketing Group."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/demos/evergreen-lawn/icon.svg?icon.192kdnqxt_y2_.svg","sizes":"any","type":"image/svg+xml"}],["$","$L27","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@28","v":null,"s":"$6"}},"a":"$@29","u":"$@2a","b":"yofJNkcWFQpiXLj_fYEA4"}
+2b:"MobileEstimateBar"
+2c:I[70768,["$2","$8"],"$2b"]
+2d:I[97367,["$2"],"OutletBoundary"]
+19:["$","ul",null,{"className":"mt-4 space-y-2.5","children":[["$","li","#services",{"children":["$","a",null,{"href":"#services","className":"text-ivory/80 hover:text-ivory","children":"Services"}]}],["$","li","#seasons",{"children":["$","a",null,{"href":"#seasons","className":"text-ivory/80 hover:text-ivory","children":"Seasons"}]}],["$","li","#gallery",{"children":["$","a",null,{"href":"#gallery","className":"text-ivory/80 hover:text-ivory","children":"Gallery"}]}],["$","li","#reviews",{"children":["$","a",null,{"href":"#reviews","className":"text-ivory/80 hover:text-ivory","children":"Reviews"}]}],["$","li","#areas",{"children":["$","a",null,{"href":"#areas","className":"text-ivory/80 hover:text-ivory","children":"Areas"}]}]]}]
+1a:["$","div",null,{"className":"md:col-span-2","children":[["$","h2",null,{"className":"font-mono text-[11px] uppercase tracking-[0.2em] text-lime","children":"Service Areas"}],["$","ul",null,{"className":"mt-4 space-y-2.5 text-ivory/80","children":[["$","li","Knoxville",{"children":"Knoxville"}],["$","li","Maryville",{"children":"Maryville"}],["$","li","Sevierville",{"children":"Sevierville"}],["$","li","Morristown",{"children":"Morristown"}],["$","li","Jefferson City",{"children":"Jefferson City"}]]}]]}]
+1b:["$","div",null,{"className":"md:col-span-3","children":[["$","h2",null,{"className":"font-mono text-[11px] uppercase tracking-[0.2em] text-lime","children":"Contact"}],["$","ul",null,{"className":"mt-4 space-y-2.5 text-ivory/80","children":[["$","li",null,{"children":["$","a",null,{"href":"tel:+18655550147","className":"hover:text-ivory","children":"(865) 555-0147"}]}],["$","li",null,{"children":["$","a",null,{"href":"mailto:hello@evergreen-lawn.example","className":"hover:text-ivory","children":"hello@evergreen-lawn.example"}]}],["$","li",null,{"children":"Knoxville, Tennessee"}],["$","li",null,{"children":"Monday to Saturday, 7am to 6pm"}]]}]]}]
+1c:["$","p",null,{"aria-hidden":"true","className":"wordmark-stripes mt-16 select-none pb-[0.22em] font-display text-[clamp(4.5rem,19vw,17rem)] font-extrabold leading-[0.8] tracking-[-0.05em]","children":"Evergreen"}]
+1d:["$","div",null,{"className":"mt-10 flex flex-col gap-3 border-t border-white/10 pt-6 text-sm text-ivory/65 md:flex-row md:justify-between","children":[["$","p",null,{"children":"Evergreen Lawn & Landscape is a fictional business. Photos from Unsplash."}],["$","p",null,{"children":["Demo Website Concept by"," ",["$","a",null,{"href":"https://legacymarketinggroup.net/","className":"font-semibold text-ivory underline underline-offset-4 hover:text-lime","children":"Legacy Marketing Group"}]]}]]}]
+1e:["$","$L2c",null,{}]
+1f:["$","script","script-0",{"src":"/demos/evergreen-lawn/_next/static/chunks/346pv-v0wd_al.js","async":true}]
+20:["$","$L2d",null,{"children":["$","$26",null,{"name":"Next.MetadataOutlet","children":"$@2e"}]}]
+6:300
+2e:null
+2a:true
+6:C
+29:0
+5:"$undefined"
+28:"$undefined"
+21:"$undefined"
